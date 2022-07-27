@@ -13,7 +13,7 @@ def sortedSquaredArray(array):
     return sortedSquares
 
 
-# Brute Force Method
+# Better Method
 # Time: O(n) 
 # Space: O(n)
 
