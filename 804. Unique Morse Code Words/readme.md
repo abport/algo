@@ -26,7 +26,7 @@ Return  _the number of different  **transformations**  among all words we have_.
  - "zen" -> "--...-." 
  - "gig" -> "--...--." 
  - "msg" ->   "--...--." 
-   There are 2 different transformations:    "--...-." and  "--...--.".
+ -    There are 2 different transformations:    "--...-." and  "--...--.".
 
 **Example 2:**
 
